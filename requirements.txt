@@ -2,3 +2,4 @@ Flask==1.1.4
 requests==2.26.0
 MarkupSafe==1.1.1
 requests==2.19.0
+requests==2.19.0
